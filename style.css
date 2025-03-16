@@ -363,16 +363,7 @@ font-size: 2.5vw;
     
 
 }
-#page3::before{
-    content: "02";
-    font-family: "silk serif" !important;
-    font-style: italic;
-    font-weight: 100;
-    font-size: 3.5vw;
-    position: absolute;
-    left: 19%;
-    top: 3.8%;
-}
+
 #page3 .underline{
     height: 1px;
     width: 100%;
@@ -910,17 +901,6 @@ font-size: 2.5vw;
     
 }
 @media (max-width:420px){
-#page3::before{
-    content: "02";
-    font-family: "silk serif" !important;
-    font-style: italic;
-    font-weight: 100;
-    font-size: 4vw;
-    position: absolute;
-    left: 6% !important;
-    top: 50% !important;
-    /* background-color: red; */
-}}
 
 @media (max-width:1200px){
     #page3{
@@ -959,16 +939,7 @@ font-size: 2.5vw;
         
     
     }
-    #page3::before{
-        content: "02";
-        font-family: "silk serif" !important;
-        font-style: italic;
-        font-weight: 100;
-        font-size: 4vw;
-        position: absolute;
-        left: 6% !important;
-        top: 1% !important;
-    }
+    
     #page5{
        min-height: 70vw;
     }
@@ -1193,7 +1164,7 @@ font-size: 2.5vw;
     }
 
     #page3{
-        height: 740vw;
+        height: 890vw;
         width: 100%;
         /* background: #363636; */
         position: relative;
@@ -1209,11 +1180,7 @@ font-size: 2.5vw;
         
     
     }
-    #page3::before{
-       
-        display: hidden !important;
-        
-    }
+    
     #page3 .underline{
         height: 1px;
         width: 94%;
