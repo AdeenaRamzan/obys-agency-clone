@@ -1164,7 +1164,7 @@ font-size: 2.5vw;
     }
 
     #page3{
-        height: 770vw;
+        height: 750vw;
         width: 100%;
         /* background: #363636; */
         position: relative;
@@ -1569,7 +1569,7 @@ font-size: 2.5vw;
     color: transparent;
 }
 #footer{
-    height: 120vh;
+    height: 110vh;
     width: 100%;
     position: relative;
     padding: 10vw 0;
