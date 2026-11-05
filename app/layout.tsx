@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://obys-agency-clone.vercel.app"),
+  metadataBase: new URL("https://adeenaramzan.github.io/obys-agency-clone"),
   title: "Obys Agency — Creative Design & Development Agency",
   description:
     "We design unique web and graphic experiences. Award-winning boutique design agency crafting wow digital projects worldwide.",
@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "Obys Agency — Creative Design & Development Agency",
     description:
       "We design unique web and graphic experiences. Award-winning boutique design agency crafting wow digital projects worldwide.",
-    url: "https://obys-agency-clone.vercel.app",
+    url: "https://adeenaramzan.github.io/obys-agency-clone",
     siteName: "Obys Agency",
     images: [
       {
